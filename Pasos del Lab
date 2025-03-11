@@ -1,0 +1,21 @@
+Manipulación de datos con Pandas y NumPy
+
+- Carga y exploración inicial de datos:
+  • Importaremos el archivo CSV.
+  • Exploraremos datos con funciones como .head(), .info(), y .describe().
+
+- Transformación de datos:
+  • Crearemos una nueva columna llamada “Ingresos Totales”
+  • Filtrar datos según una condición (Filtrar aquellos productos de los que se hay vendido más de 40 unidades).
+  • Filtrar los 10 precios más altos.
+
+Visualización de datos con Matplotlib y Seaborn
+
+- Gráficos básicos con Matplotlib:
+  • Crearemos un gráfico de barras que agrupe las ventas por sucursal y mes, y sume las cantidades vendidas.
+  • Crearemos un gráfico de dispersión para mostrar la relación entre las columnas “Precio Unitario” y “Cantidad Vendida”.
+
+Integración y Conclusión
+
+- Realizar un pequeño análisis exploratorio
+  • Redactaremos una conclusión breve sobre los hallazgos.
